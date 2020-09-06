@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C9A024E124F3760300EBAAFE /* HW2.2.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW2.2.1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C9A024E124F3760300EBAAFE /* HW2.6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW2.6.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9A024E424F3760300EBAAFE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C9A024E624F3760300EBAAFE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		C9A024E824F3760300EBAAFE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		C9A024D824F3760300EBAAFE = {
 			isa = PBXGroup;
 			children = (
-				C9A024E324F3760300EBAAFE /* HW2.2.1 */,
+				C9A024E324F3760300EBAAFE /* HW2.6 */,
 				C9A024E224F3760300EBAAFE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		C9A024E224F3760300EBAAFE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C9A024E124F3760300EBAAFE /* HW2.2.1.app */,
+				C9A024E124F3760300EBAAFE /* HW2.6.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C9A024E324F3760300EBAAFE /* HW2.2.1 */ = {
+		C9A024E324F3760300EBAAFE /* HW2.6 */ = {
 			isa = PBXGroup;
 			children = (
 				C9A024E424F3760300EBAAFE /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				C9A024EF24F3760500EBAAFE /* LaunchScreen.storyboard */,
 				C9A024F224F3760500EBAAFE /* Info.plist */,
 			);
-			path = HW2.2.1;
+			path = HW2.6;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C9A024E024F3760300EBAAFE /* HW2.2.1 */ = {
+		C9A024E024F3760300EBAAFE /* HW2.6 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C9A024F524F3760500EBAAFE /* Build configuration list for PBXNativeTarget "HW2.2.1" */;
+			buildConfigurationList = C9A024F524F3760500EBAAFE /* Build configuration list for PBXNativeTarget "HW2.6" */;
 			buildPhases = (
 				C9A024DD24F3760300EBAAFE /* Sources */,
 				C9A024DE24F3760300EBAAFE /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = HW2.2.1;
+			name = HW2.6;
 			productName = HW2.2.1;
-			productReference = C9A024E124F3760300EBAAFE /* HW2.2.1.app */;
+			productReference = C9A024E124F3760300EBAAFE /* HW2.6.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C9A024DC24F3760300EBAAFE /* Build configuration list for PBXProject "HW2.2.1" */;
+			buildConfigurationList = C9A024DC24F3760300EBAAFE /* Build configuration list for PBXProject "HW2.6" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C9A024E024F3760300EBAAFE /* HW2.2.1 */,
+				C9A024E024F3760300EBAAFE /* HW2.6 */,
 			);
 		};
 /* End PBXProject section */
@@ -291,8 +291,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "ru.zigura.HW2-2-1";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "ru.zigura.HW2-6";
+				PRODUCT_NAME = HW2.6;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -309,8 +309,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "ru.zigura.HW2-2-1";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "ru.zigura.HW2-6";
+				PRODUCT_NAME = HW2.6;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -319,7 +319,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C9A024DC24F3760300EBAAFE /* Build configuration list for PBXProject "HW2.2.1" */ = {
+		C9A024DC24F3760300EBAAFE /* Build configuration list for PBXProject "HW2.6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C9A024F324F3760500EBAAFE /* Debug */,
@@ -328,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C9A024F524F3760500EBAAFE /* Build configuration list for PBXNativeTarget "HW2.2.1" */ = {
+		C9A024F524F3760500EBAAFE /* Build configuration list for PBXNativeTarget "HW2.6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C9A024F624F3760500EBAAFE /* Debug */,
